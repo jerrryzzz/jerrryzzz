@@ -1,12 +1,17 @@
 <div align="center">
 
   <h1>Jerry Rajaonarivo</h1>
-  <p><b>Staff / Senior Principal Platform Engineer | Cloud Architect</b></p>
-  <p><i>15+ Years Architecting Enterprise Infrastructure, Multi-Tenant Clouds & High-Availability Systems</i></p>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4285F4&center=true&vCenter=true&width=650&lines=Staff+%2F+Senior+Principal+Platform+Engineer;Cloud+Architect+%40+GCP+%26+AWS;15%2B+Years+Building+High-Availability+Systems" alt="Typing SVG" />
 
   <p>
     <a href="https://linkedin.com/in/jerry-rajaonarivo-84b18818b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <img src="https://komarev.com/ghpvc/?username=jerrryzzz&style=for-the-badge&color=4285F4&label=PROFILE+VIEWS" alt="Profile Views" />
   </p>
+
+  <br/>
+
+  <img src="https://skillicons.dev/icons?i=gcp,aws,kubernetes,docker,terraform,ansible,githubactions,prometheus,grafana,elasticsearch,redis,bash&theme=dark" alt="Tech Stack" />
 
 </div>
 
@@ -39,6 +44,19 @@
 
 ---
 
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jerrryzzz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jerrryzzz&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerrryzzz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+</div>
+
+---
+
 ## 📐 Platform Philosophy & Core Directives
 
 > ### 1. Declarative Everything
@@ -53,5 +71,14 @@
 ---
 
 <div align="center">
+
   <sub>Open to executive-level technical discussions regarding Cloud Architecture, Platform Engineering, and Infrastructure Scale.</sub>
+
+  <br/><br/>
+
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="GCP" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
+
 </div>

@@ -60,7 +60,7 @@
   </ul>
 </details>
 
-<details>
+<details open>
   <summary><b>☁️ Cloud Migrations & High Availability</b></summary>
   <br />
   <ul>
@@ -69,7 +69,7 @@
   </ul>
 </details>
 
-<details>
+<details open>
   <summary><b>📈 Performance Tuning & Traffic Mitigation</b></summary>
   <br />
   <ul>

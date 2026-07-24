@@ -1,9 +1,8 @@
 <div align="center">
 
-  <h1>⚡ Jerry Rajaonarivo</h1>
-  <p><b>Cloud & Platform Engineer | Kubernetes Architect | Automation Enthusiast</b></p>
-
-  <p><i>"Scaling infrastructure with code, precision, and zero-downtime migrations."</i></p>
+  <h1>Jerry Rajaonarivo</h1>
+  <p><b>Staff / Senior Principal Platform Engineer | Cloud Architect</b></p>
+  <p><i>15+ Years Architecting Enterprise Infrastructure, Multi-Tenant Clouds & High-Availability Systems</i></p>
 
   <p>
     <a href="https://linkedin.com/in/jerry-rajaonarivo-84b18818b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -13,83 +12,46 @@
 
 ---
 
-## 🛠 Tech Stack & Daily Drivers
+## 🏛️ Executive Technical Summary
 
-<table width="100%" align="center">
-  <tr>
-    <td width="33%" valign="top">
-      <h4>☁️ Cloud & Core Infrastructure</h4>
-      <p>
-        <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white" alt="GCP" /><br />
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS" /><br />
-        <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white" alt="Terraform" /><br />
-        <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white" alt="Ansible" />
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h4>📦 Orchestration & Runtime</h4>
-      <p>
-        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes" /><br />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" /><br />
-        <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" alt="Bash" /><br />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h4>📊 Observability & Data</h4>
-      <p>
-        <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white" alt="Prometheus" /><br />
-        <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white" alt="Grafana" /><br />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" /><br />
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis" />
-      </p>
-    </td>
-  </tr>
-</table>
+| Domain | Architectural Focus & Mastery | Core Stack |
+| :--- | :--- | :--- |
+| **Enterprise Cloud Architecture** | Multi-region GCP/AWS topology design, hybrid-cloud networking, IAM policy governance, zero-trust security frameworks | GCP, AWS, Scaleway, VPC Peering, IAM |
+| **Orchestration & Compute** | Production GKE/EKS cluster lifecycle management, single-project multi-tenancy models, custom CNI/CSI integrations | Kubernetes, Docker, Helm, Custom Ingress |
+| **IaC & Infrastructure Automation** | Modular Terraform state orchestration, declarative Ansible configurations, gitops workflow enforcement | Terraform, Ansible, GitHub Actions, CI/CD |
+| **Observability & SRE** | Custom Prometheus/Grafana telemetry stacks, web-server micro-caching, edge traffic mitigation, incident response | Prometheus, Grafana, ELK, Redis, Stackdriver |
 
 ---
 
-## 🔬 Engineering Focus & Architecture Case Studies
+## 🎯 Strategic Infrastructure Leadership & Engineering Impact
 
-<details open>
-  <summary><b>🏢 Multi-Tenant Kubernetes & Cluster Efficiency</b></summary>
-  <br />
-  <ul>
-    <li>Architecting single-project, multi-tenant Kubernetes topologies to consolidate isolated environments under unified clusters.</li>
-    <li>Implementing namespace isolation, standalone load balancers, and IaC-driven tenant onboarding via Terraform.</li>
-  </ul>
-</details>
+### 1. Enterprise Multi-Tenant Infrastructure Consolidation
+* Architected and implemented single-project, multi-tenant GKE topologies designed to host up to 20 distinct client environments within unified Kubernetes clusters.
+* Reduced cloud expenditure and operational overhead by engineering strict namespace isolation policies, automated tenant provisioning modules via Terraform, and standalone load-balancing layers.
 
-<details open>
-  <summary><b>☁️ Cloud Migrations & High Availability</b></summary>
-  <br />
-  <ul>
-    <li>Executing zero-downtime migrations from legacy on-premise systems to modern multi-cloud architectures (GCP / AWS / Scaleway).</li>
-    <li>Containerizing legacy monoliths into cloud-native microservices with robust CI/CD pipelines.</li>
-  </ul>
-</details>
+### 2. Full-Lifecycle Cloud Migration & Monolith Modernization
+* Directed end-to-end cloud transformation initiatives, migrating mission-critical legacy on-premise infrastructure to cloud-native GCP/AWS environments without production downtime.
+* Spearheaded application containerization strategies, restructuring legacy monoliths into distributed microservices equipped with automated deployment pipelines.
 
-<details open>
-  <summary><b>📈 Performance Tuning & Traffic Mitigation</b></summary>
-  <br />
-  <ul>
-    <li>Designing micro-caching strategies and edge load management to stabilize workloads during traffic spikes and automated bot floods.</li>
-    <li>Building custom Prometheus & Grafana dashboards to identify cluster bottlenecks before impact.</li>
-  </ul>
-</details>
+### 3. Edge Reliability, Performance Optimization & Traffic Mitigation
+* Engineered micro-caching mechanisms, rate-limiting rules, and web-server optimizations to absorb unexpected application traffic spikes and mitigate severe automated bot vectors.
+* Formulated proactive SRE observability frameworks across Prometheus, Grafana, and Stackdriver to trace latency anomalies and eradicate system bottlenecks prior to SLA impact.
 
 ---
 
-## ⚡ Beyond the Terminal
+## 📐 Platform Philosophy & Core Directives
 
-When I'm not tuning Kubernetes manifests or automating infrastructure, you can usually find me:
-* 🏃 Managing aerobic pace and Zone 2 running metrics
-* ♟️ Analyzing chess API bots, NNUE engines, and tactical positions
-* 🎨 Painting with transparent watercolor pigments
-* 🔧 Truing bicycle wheels and tweaking mechanical components
+> ### 1. Declarative Everything
+> Infrastructure state must exist strictly as tested, versioned code. No manual console tweaks in production.
+>
+> ### 2. Architect for Blast-Radius Control
+> Multi-tenancy without ironclad isolation is technical debt. Enforce strict namespace, network, and IAM security boundaries at every layer.
+>
+> ### 3. Proactive Telemetry
+> Metrics drive architecture choices. Observability stacks must signal bottlenecks long before end-users experience performance degradation.
 
 ---
 
 <div align="center">
-  <sub>Let's connect! Open to technical discussions around platform engineering, Kubernetes, and IaC.</sub>
+  <sub>Open to executive-level technical discussions regarding Cloud Architecture, Platform Engineering, and Infrastructure Scale.</sub>
 </div>

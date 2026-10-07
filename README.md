@@ -20,7 +20,11 @@
 
 I help teams build and run infrastructure on GCP and AWS. I have 15+ years of experience with high-availability systems. My day-to-day work is Kubernetes, Terraform, Ansible, CI/CD pipelines and monitoring with Prometheus and Grafana. I write up what I learn as tutorials on my website.
 
-**[Website](https://devopsconsultant.dev)** · **[Services](https://devopsconsultant.dev/services/)** · **[Case studies](https://devopsconsultant.dev/case-studies/)** · **[Contact](https://devopsconsultant.dev/contact/)**
+<div align="center">
+  <a href="https://devopsconsultant.dev/services/"><img src="https://img.shields.io/badge/Services-4285F4?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik05IDNoNmEyIDIgMCAwIDEgMiAydjJoM2EyIDIgMCAwIDEgMiAydjEwYTIgMiAwIDAgMS0yIDJINGEyIDIgMCAwIDEtMi0yVjlhMiAyIDAgMCAxIDItMmgzVjVhMiAyIDAgMCAxIDItMnptMCA0aDZWNUg5djJ6Ii8+PC9zdmc+" alt="Services" /></a>
+  <a href="https://devopsconsultant.dev/case-studies/"><img src="https://img.shields.io/badge/Case_Studies-4285F4?style=for-the-badge&logo=bookstack&logoColor=white" alt="Case Studies" /></a>
+  <a href="https://devopsconsultant.dev/contact/"><img src="https://img.shields.io/badge/Contact-4285F4?style=for-the-badge&logo=maildotru&logoColor=white" alt="Contact" /></a>
+</div>
 
 ---
 

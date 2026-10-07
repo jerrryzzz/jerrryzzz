@@ -6,6 +6,7 @@
 
   <p>
     <a href="https://linkedin.com/in/jerry-rajaonarivo-84b18818b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://devopsconsultant.dev"><img src="https://img.shields.io/badge/Website-devopsconsultant.dev-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
     <img src="https://komarev.com/ghpvc/?username=jerrryzzz&style=for-the-badge&color=4285F4&label=PROFILE+VIEWS" alt="Profile Views" />
   </p>
 

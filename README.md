@@ -2,7 +2,7 @@
 
   <h1>Jerry Rajaonarivo</h1>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4285F4&center=true&vCenter=true&width=650&lines=Staff+%2F+Senior+Principal+Platform+Engineer;Cloud+Architect+%40+GCP+%26+AWS;15%2B+Years+Building+High-Availability+Systems" alt="Typing SVG" />
+  <p><b>Independent DevOps consultant</b> for cloud, Kubernetes, Terraform and CI/CD.</p>
 
   <p>
     <a href="https://linkedin.com/in/jerry-rajaonarivo-84b18818b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -18,49 +18,41 @@
 
 ---
 
-## 🏛️ Executive Technical Summary
+I help teams build and run infrastructure on GCP and AWS. I have 15+ years of experience with high-availability systems. My day-to-day work is Kubernetes, Terraform, Ansible, CI/CD pipelines and monitoring with Prometheus and Grafana. I write up what I learn as tutorials on my website.
 
-| Domain | Architectural Focus & Mastery | Core Stack |
-| :--- | :--- | :--- |
-| **Enterprise Cloud Architecture** | Multi-region GCP/AWS topology design, hybrid-cloud networking, IAM policy governance, zero-trust security frameworks | GCP, AWS, Scaleway, VPC Peering, IAM |
-| **Orchestration & Compute** | Production GKE/EKS cluster lifecycle management, single-project multi-tenancy models, custom CNI/CSI integrations | Kubernetes, Docker, Helm, Custom Ingress |
-| **IaC & Infrastructure Automation** | Modular Terraform state orchestration, declarative Ansible configurations, gitops workflow enforcement | Terraform, Ansible, GitHub Actions, CI/CD |
-| **Observability & SRE** | Custom Prometheus/Grafana telemetry stacks, web-server micro-caching, edge traffic mitigation, incident response | Prometheus, Grafana, ELK, Redis, Stackdriver |
+**[Website](https://devopsconsultant.dev)** · **[Services](https://devopsconsultant.dev/services/)** · **[Case studies](https://devopsconsultant.dev/case-studies/)** · **[Contact](https://devopsconsultant.dev/contact/)**
 
 ---
 
-## 🎯 Strategic Infrastructure Leadership & Engineering Impact
+## Latest tutorials
 
-### 1. Enterprise Multi-Tenant Infrastructure Consolidation
-* Architected and implemented single-project, multi-tenant GKE topologies designed to host up to 20 distinct client environments within unified Kubernetes clusters.
-* Reduced cloud expenditure and operational overhead by engineering strict namespace isolation policies, automated tenant provisioning modules via Terraform, and standalone load-balancing layers.
+- [Multi-Region PostgreSQL Failover, Tested End to End](https://devopsconsultant.dev/tutorials/postgresql-multi-region-failover/)
+- [The 2026 Cloud Cost Optimization Playbook](https://devopsconsultant.dev/tutorials/cloud-cost-optimization-guide/)
+- [Cut Deployment Lead Time to Under an Hour](https://devopsconsultant.dev/tutorials/cicd-lead-time-reduction/)
+- [Refactoring Legacy Terraform for Teams](https://devopsconsultant.dev/tutorials/refactoring-legacy-terraform/)
 
-### 2. Full-Lifecycle Cloud Migration & Monolith Modernization
-* Directed end-to-end cloud transformation initiatives, migrating mission-critical legacy on-premise infrastructure to cloud-native GCP/AWS environments without production downtime.
-* Spearheaded application containerization strategies, restructuring legacy monoliths into distributed microservices equipped with automated deployment pipelines.
-
-### 3. Edge Reliability, Performance Optimization & Traffic Mitigation
-* Engineered micro-caching mechanisms, rate-limiting rules, and web-server optimizations to absorb unexpected application traffic spikes and mitigate severe automated bot vectors.
-* Formulated proactive SRE observability frameworks across Prometheus, Grafana, and Stackdriver to trace latency anomalies and eradicate system bottlenecks prior to SLA impact.
+More at [devopsconsultant.dev/tutorials](https://devopsconsultant.dev/tutorials/).
 
 ---
 
-## 📐 Platform Philosophy & Core Directives
+## Experience
 
-> ### 1. Declarative Everything
-> Infrastructure state must exist strictly as tested, versioned code. No manual console tweaks in production.
->
-> ### 2. Architect for Blast-Radius Control
-> Multi-tenancy without ironclad isolation is technical debt. Enforce strict namespace, network, and IAM security boundaries at every layer.
->
-> ### 3. Proactive Telemetry
-> Metrics drive architecture choices. Observability stacks must signal bottlenecks long before end-users experience performance degradation.
+- 15+ years building and running high-availability systems.
+- Production work on GCP and AWS.
+- Kubernetes cluster operations on GKE and EKS.
+- Infrastructure as code with Terraform and Ansible.
+- CI/CD pipelines with GitHub Actions.
+- Monitoring and alerting with Prometheus and Grafana.
+
+### Multi-tenant GKE consolidation
+
+I consolidated up to 20 client environments into single-project, multi-tenant GKE clusters. Each tenant runs in its own namespace with isolation policies. New tenants are provisioned through Terraform modules.
 
 ---
 
 <div align="center">
 
-  <sub>Open to executive-level technical discussions regarding Cloud Architecture, Platform Engineering, and Infrastructure Scale.</sub>
+  <sub>Need help with your cloud setup? <a href="https://devopsconsultant.dev/contact/">Get in touch</a>.</sub>
 
   <br/><br/>
 
